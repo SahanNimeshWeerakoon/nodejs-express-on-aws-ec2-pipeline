@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-on-aws-ec2-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahanNimeshWeerakoon/nodejs-express-on-aws-ec2-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahanNimeshWeerakoon/nodejs-express-on-aws-ec2-pipeline/issues"
+  },
+  "homepage": "https://github.com/SahanNimeshWeerakoon/nodejs-express-on-aws-ec2-pipeline#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
