@@ -20,5 +20,6 @@ app.get('/products', (req, res) => {
 });
 
 app.listen(port, () => {
+    console.log({port: process.env.port});
     console.log(`Demo app listening to port ${port}`);
 });
